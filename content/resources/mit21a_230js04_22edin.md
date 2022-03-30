@@ -4,6 +4,7 @@ description: 'This resource contains the information regarding economic issues a
   problems III: poverty, genteel and brutal.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21a-230j-the-contemporary-american-family-spring-2004/1494775a79ca4b1fa527be93efc372f7_MIT21A_230JS04_22edin.pdf
 file_type: application/pdf
+parent_uid: a8c91656-30e7-e2ab-2d1b-c7509cb2350f
 resourcetype: Document
 title: 'Economic Issues and Problems III: Poverty, Genteel and Brutal'
 uid: 1494775a-79ca-4b1f-a527-be93efc372f7

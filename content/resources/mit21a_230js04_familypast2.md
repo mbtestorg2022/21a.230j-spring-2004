@@ -4,6 +4,7 @@ description: This resource contains the information regarding The Family in the 
   II.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21a-230j-the-contemporary-american-family-spring-2004/35a45d0eabef37163ba75db1f8a293a3_MIT21A_230JS04_familypast2.pdf
 file_type: application/pdf
+parent_uid: b711ebdd-eaf3-1b9e-14b5-cb4be9c9307f
 resourcetype: Document
 title: The Family in the Past II
 uid: 35a45d0e-abef-3716-3ba7-5db1f8a293a3

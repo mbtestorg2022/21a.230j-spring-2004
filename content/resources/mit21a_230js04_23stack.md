@@ -4,6 +4,7 @@ description: 'This resource contains the information regarding economic issues a
   problems IV: differential rates of poverty in racial and ethnic groups.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21a-230j-the-contemporary-american-family-spring-2004/444ab236e514e5f685515b54805c6aeb_MIT21A_230JS04_23stack.pdf
 file_type: application/pdf
+parent_uid: a8c91656-30e7-e2ab-2d1b-c7509cb2350f
 resourcetype: Document
 title: 'Economic Issues and Problems IV: Differential Rates of Poverty in Racial and
   Ethnic Groups'

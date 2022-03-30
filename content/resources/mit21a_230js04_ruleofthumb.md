@@ -4,6 +4,7 @@ description: This resource contains the information regarding Rules of Thumb for
   Assignments.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21a-230j-the-contemporary-american-family-spring-2004/6bc0403e5f03b8c9b61a7c8fcf5bc413_MIT21A_230JS04_ruleofthumb.pdf
 file_type: application/pdf
+parent_uid: 939fc852-d98d-8cee-9009-5f325b99cab5
 resourcetype: Document
 title: Rules of Thumb for Writing Assignments
 uid: 6bc0403e-5f03-b8c9-b61a-7c8fcf5bc413
